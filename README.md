@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
-<h3 align="center">A passionate Web Developer from India!</h3>
+<h3 align="center">A passionate Software Developer from India!</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
