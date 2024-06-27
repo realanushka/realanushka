@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realanushka&label=Profile%20views&color=0e75b6&style=flat" alt="realanushka" /> </p>
 
+- 👀 I’m interested in coding & creating a scalable projects.
+
 - 🌱 I’m currently learning **ReactJs**
 
-- 📫 How to reach me **annussha.gupta@gmail.com**
+- 📫 Reach me at **annussha.gupta@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1fnCuRCBhJrfC11afBpmWGo82bxZUEk29Sil-8D-iQqI/edit?usp=sharing](https://docs.google.com/document/d/1fnCuRCBhJrfC11afBpmWGo82bxZUEk29Sil-8D-iQqI/edit?usp=sharing)
 
