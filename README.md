@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in coding & creating a scalable projects.
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 Reach me at **annussha.gupta@gmail.com**
 
