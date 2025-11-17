@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
-<h3 align="center"> I'm an **AI Developer**!</h3>
+<h3 align="center"> I'm an AI Developer!</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realanushka&label=Profile%20views&color=0e75b6&style=flat" alt="realanushka" /> </p>
 
-- 👀 I’m interested in coding & creating a scalable projects.
+- 👀 Driven by a commitment to **innovation** and **community growth**. I specialize in translating complex challenges into robust, user-friendly solutions.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🛠️ **Tech Stack Focus:**
+* **Cutting-Edge AI:** Generative AI, LLMs
+* **Backend Power:** Python, Django, Flask (Scalable Architectures)
 
 - 📫 Reach me at **annussha.gupta@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1fnCuRCBhJrfC11afBpmWGo82bxZUEk29Sil-8D-iQqI/edit?usp=sharing](https://docs.google.com/document/d/1fnCuRCBhJrfC11afBpmWGo82bxZUEk29Sil-8D-iQqI/edit?usp=sharing)
 
 - ⚡ Fun fact **I have good sense of humor**
 
