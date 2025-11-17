@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anushka Gupta</h1>
-<h3 align="center"> I'm an AI Developer!</h3>
+<h3 align="center"> 🧠 **AI Developer** | 🏗️ **Full-Stack Architect**</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=realanushka&label=Profile%20views&color=0e75b6&style=flat" alt="realanushka" /> </p>
 
-- 👀 Driven by a commitment to **innovation** and **community growth**. I specialize in translating complex challenges into robust, user-friendly solutions.
-
-- 🛠️ **Tech Stack Focus:**
-* **Cutting-Edge AI:** Generative AI, LLMs
-* **Backend Power:** Python, Django, Flask (Scalable Architectures)
+- Passionate about leveraging **Generative AI, Python, Flask, and Django** to build dynamic, scalable web applications. My focus is always on **high-value technical outcomes** and fostering strong community growth. I am a proven problem-solver, dedicated to engineering user-friendly interfaces and efficient workflows. Let's build something innovative!
 
 - 📫 Reach me at **annussha.gupta@gmail.com**
 
